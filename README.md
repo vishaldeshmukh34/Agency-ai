@@ -94,10 +94,10 @@ npm run build
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Vishal Deshmukh**  
 Front-End Developer | React Enthusiast  
-📧 your.email@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN)  
+📧 vishaldeshmukh7972@gmail.com  
+🌐 https://www.linkedin.com/in/vishal-deshmukh79/
 
 ---
 
